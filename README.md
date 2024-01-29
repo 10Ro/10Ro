@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚    I'm currently studying computer engineering<br>💻    I'm currently learning Java, Python and C<br>🇬🇧    I'm trying to improve my english level
+📚    I'm currently studying computer engineering<br>💻    I'm currently learning Java, Python, C and SQL<br>🇬🇧    I'm trying to improve my english level
 
 
 # 💻 Tech Stack:
